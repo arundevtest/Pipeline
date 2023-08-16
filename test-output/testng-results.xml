@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111181" started-at="2023-08-16T05:40:57Z" finished-at="2023-08-16T05:42:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111181" started-at="2023-08-16T05:40:57Z" finished-at="2023-08-16T05:42:49Z">
+      <class name="org.browser.AdcatinwithPomAndBaseClass">
+        <test-method status="PASS" signature="pageOne(java.lang.String, java.lang.String)[pri:1, instance:org.browser.AdcatinwithPomAndBaseClass@78c03f1f]" name="pageOne" duration-ms="96716" started-at="2023-08-16T11:10:57Z" finished-at="2023-08-16T11:12:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arunhotel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageOne -->
+        <test-method status="PASS" signature="pageTwo(java.lang.String)[pri:2, instance:org.browser.AdcatinwithPomAndBaseClass@78c03f1f]" name="pageTwo" duration-ms="3635" started-at="2023-08-16T11:12:34Z" finished-at="2023-08-16T11:12:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[09/08/2023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTwo -->
+        <test-method status="PASS" signature="pageFour()[pri:4, instance:org.browser.AdcatinwithPomAndBaseClass@78c03f1f]" name="pageFour" duration-ms="1730" started-at="2023-08-16T11:12:38Z" finished-at="2023-08-16T11:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageFour -->
+        <test-method status="PASS" signature="pageFive()[pri:5, instance:org.browser.AdcatinwithPomAndBaseClass@78c03f1f]" name="pageFive" duration-ms="8032" started-at="2023-08-16T11:12:40Z" finished-at="2023-08-16T11:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageFive -->
+        <test-method status="PASS" signature="pageThree()[pri:300, instance:org.browser.AdcatinwithPomAndBaseClass@78c03f1f]" name="pageThree" duration-ms="1013" started-at="2023-08-16T11:12:48Z" finished-at="2023-08-16T11:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageThree -->
+      </class> <!-- org.browser.AdcatinwithPomAndBaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <parameter  name = "UserName" value="Arunhotel"    ></parameter>
+  <parameter name ="Password" value="12345678"></parameter>
+  <parameter name ="Date" value="09/08/2023"></parameter>
+  
+  
+  
+  
+  
+    <classes>
+      <class name="org.browser.AdcatinwithPomAndBaseClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
